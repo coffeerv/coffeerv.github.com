@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://coffeerv.github.com/atom.xml" rel="self"/>
-  <link href="http://coffeerv.github.com/"/>
-  <updated>2012-10-01T22:17:21-05:00</updated>
-  <id>http://coffeerv.github.com/</id>
+  <title><![CDATA[Rafael Verduzco]]></title>
+  <link href="http://rafaelverduzco.com/atom.xml" rel="self"/>
+  <link href="http://rafaelverduzco.com/"/>
+  <updated>2012-10-01T22:40:02-05:00</updated>
+  <id>http://rafaelverduzco.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Rafael Verduzco]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Good to be back]]></title>
+    <link href="http://rafaelverduzco.com/blog/2012/10/01/good-to-be-back/"/>
+    <updated>2012-10-01T22:34:00-05:00</updated>
+    <id>http://rafaelverduzco.com/blog/2012/10/01/good-to-be-back</id>
+    <content type="html"><![CDATA[<p>Oh, hi! After a long hiatus, I&#8217;m back to having a &#8216;formal&#8217; presence.</p>
+
+<p>I hope you&#8217;ll enjoy the ride.</p>
+
+<p>Thanks for reading.</p>
+
+<p>–Rafa</p>
+]]></content>
+  </entry>
   
 </feed>
